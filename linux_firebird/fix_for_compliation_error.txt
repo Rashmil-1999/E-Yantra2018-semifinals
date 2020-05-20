@@ -1,0 +1,8 @@
+
+
+Note: If you get an error stating “sys/cdefs.h : No such file or directory” . You can install linking library “g++-multilib” to resolve it
+
+sudo apt-get install g++-multilib
+
+
+
