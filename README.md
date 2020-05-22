@@ -16,6 +16,41 @@ In this theme, a robot and a lift mechanism is designed that depicts a Squirrel 
 
 The challenge is to complete this task in the shortest time possible and place the blocks at designated sections.
 
+## FILE STRUCTURE
+
+```
+.
+├── assets
+├── Final Code
+    ├── .vs
+    └── Final Code
+        ├── lcd.c/ -> Interfacing with lcd and display of desired output
+        └── logic.c  -> Path travesal logic, Interfacing of line sensor, color sensor, motor and servo motor
+├── Hardware Testing/ -> Frontend for the project
+├── linux_firebird/ -> Django app for endpoints
+├── Resources -> Project configurations
+├── Submissions
+└── Tasks
+├── README.md
+└── rulebook_ns.pdf
+```
+
+
+## DEVELOPERS
+
+> Rashmil Panchani
+> [github.com/Rashmil-1999](https://github.com/Rashmil-1999)
+
+> Parag Vaid
+> [github.com/parag1999](https://github.com/parag1999)
+
+> Preet Shah
+> [github.com/preet4737](https://github.com/preet4737)
+
+> Palash Rathod
+> [github.com/palash27](https://github.com/palash27)
+
+
 
 ## IMPLEMENTATION
 
